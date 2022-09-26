@@ -10,9 +10,9 @@ On the first lines of the file those variables are defined.
 | maxMoveRange | Max range where the mouse is allowed to move in general (px) | 600 |
 | randomDelayTimer | Max range of teh random time interval (ms) | 20000 |
 
-### How to flash it
+### How to use it
 
-Just paste the code to your Arduino IDE and you are good to go.
+Just paste the code to your Arduino IDE, flash it and you are good to go, plug it in on the device of your choice (Windows, MacOS, Linux). 
 
 
 #### note
